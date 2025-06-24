@@ -546,6 +546,8 @@
                             "anyOf": [
                                 {
                                     "enum": [
+
+
                                         "ES3",
                                         "ES5",
                                         "ES6",
@@ -558,6 +560,7 @@
                                         "ES2021",
                                         "ES2022",
                                         "ESNext"
+
                                     ]
                                 },
                                 {
@@ -608,6 +611,8 @@
                                 "useFsEventsOnParentDirectory",
                                 "fixedChunkSizePolling"
                             ],
+
+                            
                             "default": "useFsEvents"
                         },
                         "experimentalDecorators": {
